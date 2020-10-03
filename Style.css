@@ -1,0 +1,182 @@
+body {
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.Rectangle 19 {
+position: absolute;
+width: 720px;
+height: 833px;
+left: 1px;
+top: 0px;
+
+background: #032559;
+}
+
+.left-body {
+    position: absolute;
+    width: 521px;
+    height: 349px;
+    left: 138px;
+    top: 181px;
+    
+}
+.titulo {
+    position: absolute;
+    width: 521px;
+    height: 349px;
+    left: 138px;
+    top: 181px;
+    
+}
+.subtitulo{
+    position: absolute;
+    width: 521px;
+    height: 349px;
+    left: 138px;
+    top: 181px;
+}
+
+.Rectangle 18{
+    position: absolute;
+    width: 720px;
+    height: 833px;
+    left: 720px;
+    top: 0px;
+    
+    background #FFFFFF  
+}
+
+.title{
+    position: absolute;
+    width: 283px;
+    height: 73px;
+    left: 920px;
+    top: 71px;
+    
+}
+
+.titulo2{
+    position: absolute;
+    width: 283px;
+    height: 73px;
+    left: 920px;
+    top: 71px;    
+}
+
+.subtitulo2 {
+    position: absolute;
+    width: 283px;
+    height: 73px;
+    left: 920px;
+    top: 71px;
+    
+}
+
+.form {
+    position: absolute;
+    width: 445px;
+    height: 390px;
+    left: 856px;
+    top: 187px;    
+}
+
+.paragrafo1{
+    position: absolute;
+    width: 445px;
+    height: 390px;
+    left: 856px;
+    top: 187px;
+    
+}
+.paragrafo2{
+    position: absolute;
+    width: 445px;
+    height: 390px;
+    left: 856px;
+    top: 187px;
+    
+}
+.paragrafo3{
+    position: absolute;
+    width: 445px;
+    height: 390px;
+    left: 856px;
+    top: 187px;
+    
+}
+
+.paragrafo4{
+    position: absolute;
+    width: 445px;
+    height: 390px;
+    left: 856px;
+    top: 187px;
+    
+}
+
+.paragrafo5 {
+    position: absolute;
+    width: 445px;
+    height: 390px;
+    left: 856px;
+    top: 187px;
+    
+}
+
+.paragarafo6 {
+    position: absolute;
+    width: 445px;
+    height: 390px;
+    left: 856px;
+    top: 187px;
+    
+}
+
+.terms {
+    position: absolute;
+    width: 358px;
+    height: 20px;
+    left: 861px;
+    top: 615px;
+}
+
+.Termo {
+    position: absolute;
+    width: 358px;
+    height: 20px;
+    left: 861px;
+    top: 615px;
+}
+
+.btn-signup {
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 1020px;
+    top: 681px;
+    
+}
+.Botao {
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 1020px;
+    top: 681px;
+}
+
+.Login{
+    position: absolute;
+    width: 193px;
+    height: 16px;
+    left: 861px;
+    top: 749px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;
+}
